@@ -6,7 +6,7 @@
 
 \* Kleiton Ewerton de Oliveira <br>
 \* Mariana Siano Pinto <br>
-\* Pedro Bonorino <br>
+\* Pedro Luiz Bonorino Braga <br>
 
 ## Professor da Disciplina
 
