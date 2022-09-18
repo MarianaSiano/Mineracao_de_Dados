@@ -1,13 +1,14 @@
 # Mineração de Dados
 
-
-| **Sumário** |
-|-------------|
-| [Objetivo do Repositório](#objetivo-do-repositorio) |
-| [Integrantes do Grupo](#integrantes-do-grupo) |
-| [Professor da Disciplina](#professor-da-disciplina) |
-| [Branchs dos Trabalhos](#branchs-dos-trabalhos) |
-| [Links Úteis](#links-uteis) |
+<div align="center">
+    | **Sumário** |
+    |-------------|
+    | [Objetivo do Repositório](#objetivo-do-repositorio) |
+    | [Integrantes do Grupo](#integrantes-do-grupo) |
+    | [Professor da Disciplina](#professor-da-disciplina) |
+    | [Branchs dos Trabalhos](#branchs-dos-trabalhos) |
+    | [Links Úteis](#links-uteis) |
+</div>
 
 ## Objetivo do repositório
 * Esse repositório tem o intuito de versionamento de código da disciplina de Mineração de Dados da UFJF no semestre de 2022.3 <br>
