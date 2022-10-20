@@ -11,3 +11,7 @@
 ## Professor da Disciplina
 
 \* Heder Soares Bernardino
+
+### Links Úteis
+
+* [Arquivo CSV](https://drive.google.com/drive/folders/1InY1bUXG649WjIfm7rs8odEP90oqnh6X?usp=sharing)
