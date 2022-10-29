@@ -1,0 +1,6 @@
+# Ignorar arquivos gerados e csv:
+.csv
+
+# Ignorar arquivos de ambiente de desenvolvimento:
+.vscode/
+.git/
